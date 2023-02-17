@@ -10,6 +10,14 @@
 
 <br><br>
 
+<h3 align="center"> 💻 MY SOLVED.AC 💻 </h3>
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dami2055)](https://solved.ac/dami2055/)
+</div>
+
+<br><br>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cpp&logoColor=white"/></a>&nbsp 
