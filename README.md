@@ -40,6 +40,11 @@
 <p align="center">
   <a href="[https://hadaming.tistory.com](https://hadaming.tistory.com/)"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hadaming.tistory.com"/></a>&nbsp
   <a href="mailto:dami2055@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <div align="center">
+    
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCheon-DM%2Fhit-counter&count_bg=%2334C864&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+    
+  </div>
 </p>
 
 <br><br>
